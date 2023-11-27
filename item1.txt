@@ -1,0 +1,3 @@
+Revista 1: Artificial Intelligence Review (Q1)
+Revista 2: AI Magazine (Q2)
+Revista 3: ACM Computing Surveys (Q2)
