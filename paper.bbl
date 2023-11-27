@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{FRADKOV20201385}
+Alexander~L. Fradkov.
+\newblock Early history of machine learning.
+\newblock {\em IFAC-PapersOnLine}, 53(2):1385--1390, 2020.
+\newblock 21st IFAC World Congress.
+
+\bibitem{french2000}
+Robert~M French.
+\newblock The turing test: the first 50 years.
+\newblock {\em Trends in Cognitive Sciences}, 4(3):115--122, 2000.
+
+\bibitem{giacaglia2022making}
+Giuliano~Pezzolo Giacaglia.
+\newblock {\em Making Things Think: How AI and Deep Learning Power the Products
+  We Use}.
+\newblock Holloway, e1.0.2 edition, 2022.
+
+\bibitem{history2022}
+Robert Koch.
+\newblock History of machine learning – a journey through the timeline.
+\newblock {\em clickworker}, 2022.
+
+\bibitem{5392560}
+A.~L. Samuel.
+\newblock Some studies in machine learning using the game of checkers.
+\newblock {\em IBM Journal of Research and Development}, 3(3):210--229, 1959.
+
+\bibitem{turing1950computing}
+Alan~M. Turing.
+\newblock Computing machinery and intelligence.
+\newblock {\em Mind}, 59(236):433--460, 1950.
+
+\end{thebibliography}
